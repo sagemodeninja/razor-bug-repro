@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bug_reproduce/Component1.razor">
+    <Files>
+      <File FileName="bug_reproduce/SampleComponent.razor" Line="4" Column="2" />
+      <File FileName="bug_reproduce/Component1.razor" Line="6" Column="1" />
+      <File FileName="bug_reproduce/bug_reproduce.csproj" Line="6" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bug_reproduce" expanded="True" selected="True">
+            <Node name="bug_reproduce" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

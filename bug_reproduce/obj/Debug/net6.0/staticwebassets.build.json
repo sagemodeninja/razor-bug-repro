@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "cBB9IYpQN18RTubDwKzvgUvcIJGAGvkzXruRhHHqTZc=",
+  "Source": "bug_reproduce",
+  "BasePath": "_content/bug_reproduce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "bug_reproduce/wwwroot",
+      "Source": "bug_reproduce",
+      "ContentRoot": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/wwwroot/",
+      "BasePath": "_content/bug_reproduce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/Debug/net6.0/scopedcss/bundle/bug_reproduce.styles.css",
+      "SourceId": "bug_reproduce",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/Debug/net6.0/scopedcss/bundle/",
+      "BasePath": "_content/bug_reproduce",
+      "RelativePath": "bug_reproduce.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/Debug/net6.0/scopedcss/bundle/bug_reproduce.styles.css"
+    },
+    {
+      "Identity": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/Debug/net6.0/scopedcss/projectbundle/bug_reproduce.bundle.scp.css",
+      "SourceId": "bug_reproduce",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/bug_reproduce",
+      "RelativePath": "bug_reproduce.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/Debug/net6.0/scopedcss/projectbundle/bug_reproduce.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/wwwroot/background.png",
+      "SourceId": "bug_reproduce",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/wwwroot/",
+      "BasePath": "_content/bug_reproduce",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/background.png"
+    },
+    {
+      "Identity": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/wwwroot/exampleJsInterop.js",
+      "SourceId": "bug_reproduce",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/wwwroot/",
+      "BasePath": "_content/bug_reproduce",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
+    }
+  ]
+}

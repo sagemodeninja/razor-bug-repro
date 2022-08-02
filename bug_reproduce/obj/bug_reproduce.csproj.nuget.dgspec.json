@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/bug_reproduce.csproj": {}
+  },
+  "projects": {
+    "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/bug_reproduce.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/bug_reproduce.csproj",
+        "projectName": "bug_reproduce",
+        "projectPath": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/bug_reproduce.csproj",
+        "packagesPath": "/Users/garyantier/.nuget/packages/",
+        "outputPath": "/Users/garyantier/Desktop/bug_reproduce/bug_reproduce/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/garyantier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/garyantier/Documents/Development/Local NuGet Packages": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/rafi-secdevops/_packaging/rafi-secdevops-artifacts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
