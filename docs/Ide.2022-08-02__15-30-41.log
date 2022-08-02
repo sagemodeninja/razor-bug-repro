@@ -1,0 +1,340 @@
+INFO [2022-08-02 15:30:41Z]: Creating service: MonoDevelop.Ide.IdeCore
+INFO [2022-08-02 15:30:41Z]: Service MonoDevelop.Ide.IdeCore initialized in 2 ms.
+INFO [2022-08-02 15:30:41Z]: Starting Visual Studio 2022 for Mac Preview 17.3 Preview (17.3 build 2083)
+INFO [2022-08-02 15:30:41Z]: Build Information
+Release ID: 1703002083
+Git revision: fbfa325b70d6916a49fef93ae6ffc7312ee7a0ba
+Build date: 2022-07-22 20:07:37+00
+Build branch: release-17.3
+
+INFO [2022-08-02 15:30:41Z]: Running on .NET 6.0.5 (64-bit)
+INFO [2022-08-02 15:30:41Z]: Operating System: Mac OS X 12.5.0
+Darwin 21.6.0 Darwin Kernel Version 21.6.0
+    Sat Jun 18 17:07:22 PDT 2022
+    root:xnu-8020.140.41~1/RELEASE_ARM64_T6000 arm64
+INFO [2022-08-02 15:30:41Z]: Running af1f230a-aaad-46f3-b2b1-3ff0fe118749
+INFO [2022-08-02 15:30:41Z]: Health monitor process discovered at `/Applications/Visual Studio (Preview).app/Contents/SharedSupport/VSMonitor.app/Contents/MacOS/VSMonitor`
+INFO [2022-08-02 15:30:41Z]: Starting health monitor
+INFO [2022-08-02 15:30:41Z]: Add-in loaded: MonoDevelop.Core
+INFO [2022-08-02 15:30:41Z]: Add-in loaded: MonoDevelop.Ide
+INFO [2022-08-02 15:30:41Z]: Add-in loaded: Microsoft.VisualStudio
+INFO [2022-08-02 15:30:41Z]: Initializing Runtime NetCore .NET 6.0.5
+INFO [2022-08-02 15:30:41Z]: [0 (+0)] Finding custom frameworks
+INFO [2022-08-02 15:30:41Z]: [0 (+0)] Creating frameworks
+INFO [2022-08-02 15:30:41Z]: Registering feature IdeBuildOutputView (Enable structured build output UI = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature RUNTIME_SELECTOR (Enable runtime selection on UI = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature NewExtensionManager (Enables the new extension manager view. = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature EnableDotNetHotReload (Enable .NET Hot Reload = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature EnableVersionControlTracing (Enable VersionControl tracing output = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature PerfWatsonDiagnostics (Enable additional performance diagnostics options = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature ReliabilityDiagnostics (Enable additional reliability diagnostics options = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature VSCODE_DEBUG_PROTOCOL_LOGGING (Enable VSCode Debug Adapter Protocol Logging = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature VBNetDotnetCoreTemplates (Enable VB.NET support for .NET Core = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature DotNetWorkload (Enable dotnet workload support for .NET = True)
+INFO [2022-08-02 15:30:41Z]: Registering feature JAVASCRIPT_DEBUGGER_VERBOSE_LOGGING (Enable verbose logging for the JavaScript debugger = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature Razor.LSP.Editor (Enables the Razor LSP editor for ASP.NET Core scenarios = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature WebTools.LSP.Editor (Enables the HTML and CSS LSP editors = False)
+INFO [2022-08-02 15:30:41Z]: Registering feature AspNetCoreGRPCTemplates (Enable gRPC template = True)
+INFO [2022-08-02 15:30:41Z]: [2 (+2)] Initializing frameworks
+INFO [2022-08-02 15:30:41Z]: [2 (+0)] END: Target runtimes loaded
+INFO [2022-08-02 15:30:41Z]: Found the System.Runtime EventSource
+INFO [2022-08-02 15:30:42Z]: Creating service: MonoDevelop.Components.Commands.CommandManager
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.DesignerSupport
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.TextEditor
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.Debugger
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: Xamarin.Designer
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: Xamarin.Android.Deploy
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.ConnectedServices
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.RegexToolkit
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.SourceEditor2
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.Refactoring
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.PackageManagement
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.UnitTesting
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.Debugger.VsCodeDebugProtocol
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.CSharpBinding
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.DotNetCore
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.PerformanceDiagnostics
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.Xamarin.Ide
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.Debugger.Soft
+INFO [2022-08-02 15:30:42Z]: Add-in loaded: MonoDevelop.Unity
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.Xamarin.Ide.Mac
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.Xamarin.Addins.Core
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.Xml
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.MonoAndroid
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Xamarin.AndroidDesigner
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Microsoft.VisualStudio.Mac.RazorAddin
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.TextTemplating
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.AspNet
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Microsoft.VisualStudio.WebTools.WebEditors
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.MacPlatform
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Xamarin.Ide.Identity
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Microsoft.JavaScript.Debugger
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.AspNetCore
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Xamarin.AzureSupport
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.Docker
+Error during static registrar initialization load System.TypeLoadException: Could not load type 'System.Web.PreApplicationStartMethodAttribute' from assembly 'System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at System.ModuleHandle.ResolveType(QCallModule module, Int32 typeToken, IntPtr* typeInstArgs, Int32 typeInstCount, IntPtr* methodInstArgs, Int32 methodInstCount, ObjectHandleOnStack type)
+   at System.ModuleHandle.ResolveTypeHandle(Int32 typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+   at System.Reflection.RuntimeModule.ResolveType(Int32 metadataToken, Type[] genericTypeArguments, Type[] genericMethodArguments)
+   at System.Reflection.CustomAttribute.FilterCustomAttributeRecord(MetadataToken caCtorToken, MetadataImport& scope, RuntimeModule decoratedModule, MetadataToken decoratedToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1& derivedAttributes, RuntimeType& attributeType, IRuntimeMethodInfo& ctorWithParameters, Boolean& isVarArg)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeAssembly assembly, RuntimeType caType)
+   at System.Reflection.RuntimeAssembly.GetCustomAttributes(Type attributeType, Boolean inherit)
+   at ObjCRuntime.Runtime.RegisterAssembly(Assembly a) in /Users/builder/azdo/_work/1/s/xamarin-macios/src/ObjCRuntime/Runtime.cs:line 644
+   at Xwt.Mac.NSApplicationInitializer.CurrentDomain_AssemblyLoad(Object sender, AssemblyLoadEventArgs args) in /Users/runner/work/1/s/main/external/xwt/Xwt.XamMac/Xwt.Mac/NSApplicationInitializer.cs:line 77
+Error during static registrar initialization load System.TypeLoadException: Could not load type 'System.Web.PreApplicationStartMethodAttribute' from assembly 'System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at System.ModuleHandle.ResolveType(QCallModule module, Int32 typeToken, IntPtr* typeInstArgs, Int32 typeInstCount, IntPtr* methodInstArgs, Int32 methodInstCount, ObjectHandleOnStack type)
+   at System.ModuleHandle.ResolveTypeHandle(Int32 typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+   at System.Reflection.RuntimeModule.ResolveType(Int32 metadataToken, Type[] genericTypeArguments, Type[] genericMethodArguments)
+   at System.Reflection.CustomAttribute.FilterCustomAttributeRecord(MetadataToken caCtorToken, MetadataImport& scope, RuntimeModule decoratedModule, MetadataToken decoratedToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1& derivedAttributes, RuntimeType& attributeType, IRuntimeMethodInfo& ctorWithParameters, Boolean& isVarArg)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeAssembly assembly, RuntimeType caType)
+   at System.Reflection.RuntimeAssembly.GetCustomAttributes(Type attributeType, Boolean inherit)
+   at ObjCRuntime.Runtime.RegisterAssembly(Assembly a) in /Users/builder/azdo/_work/1/s/xamarin-macios/src/ObjCRuntime/Runtime.cs:line 644
+   at Xwt.Mac.NSApplicationInitializer.CurrentDomain_AssemblyLoad(Object sender, AssemblyLoadEventArgs args) in /Users/runner/work/1/s/main/external/xwt/Xwt.XamMac/Xwt.Mac/NSApplicationInitializer.cs:line 77
+Error during static registrar initialization load System.TypeLoadException: Could not load type 'System.Web.PreApplicationStartMethodAttribute' from assembly 'System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at System.ModuleHandle.ResolveType(QCallModule module, Int32 typeToken, IntPtr* typeInstArgs, Int32 typeInstCount, IntPtr* methodInstArgs, Int32 methodInstCount, ObjectHandleOnStack type)
+   at System.ModuleHandle.ResolveTypeHandle(Int32 typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+   at System.Reflection.RuntimeModule.ResolveType(Int32 metadataToken, Type[] genericTypeArguments, Type[] genericMethodArguments)
+   at System.Reflection.CustomAttribute.FilterCustomAttributeRecord(MetadataToken caCtorToken, MetadataImport& scope, RuntimeModule decoratedModule, MetadataToken decoratedToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1& derivedAttributes, RuntimeType& attributeType, IRuntimeMethodInfo& ctorWithParameters, Boolean& isVarArg)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeAssembly assembly, RuntimeType caType)
+   at System.Reflection.RuntimeAssembly.GetCustomAttributes(Type attributeType, Boolean inherit)
+   at ObjCRuntime.Runtime.RegisterAssembly(Assembly a) in /Users/builder/azdo/_work/1/s/xamarin-macios/src/ObjCRuntime/Runtime.cs:line 644
+   at Xwt.Mac.NSApplicationInitializer.CurrentDomain_AssemblyLoad(Object sender, AssemblyLoadEventArgs args) in /Users/runner/work/1/s/main/external/xwt/Xwt.XamMac/Xwt.Mac/NSApplicationInitializer.cs:line 77
+Error during static registrar initialization load System.TypeLoadException: Could not load type 'System.Web.PreApplicationStartMethodAttribute' from assembly 'System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at System.ModuleHandle.ResolveType(QCallModule module, Int32 typeToken, IntPtr* typeInstArgs, Int32 typeInstCount, IntPtr* methodInstArgs, Int32 methodInstCount, ObjectHandleOnStack type)
+   at System.ModuleHandle.ResolveTypeHandle(Int32 typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+   at System.Reflection.RuntimeModule.ResolveType(Int32 metadataToken, Type[] genericTypeArguments, Type[] genericMethodArguments)
+   at System.Reflection.CustomAttribute.FilterCustomAttributeRecord(MetadataToken caCtorToken, MetadataImport& scope, RuntimeModule decoratedModule, MetadataToken decoratedToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1& derivedAttributes, RuntimeType& attributeType, IRuntimeMethodInfo& ctorWithParameters, Boolean& isVarArg)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeAssembly assembly, RuntimeType caType)
+   at System.Reflection.RuntimeAssembly.GetCustomAttributes(Type attributeType, Boolean inherit)
+   at ObjCRuntime.Runtime.RegisterAssembly(Assembly a) in /Users/builder/azdo/_work/1/s/xamarin-macios/src/ObjCRuntime/Runtime.cs:line 644
+   at Xwt.Mac.NSApplicationInitializer.CurrentDomain_AssemblyLoad(Object sender, AssemblyLoadEventArgs args) in /Users/runner/work/1/s/main/external/xwt/Xwt.XamMac/Xwt.Mac/NSApplicationInitializer.cs:line 77
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.VersionControl
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.MacDev
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.MonoMac
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.IPhone
+INFO [2022-08-02 15:30:43Z]: ANDROID: $(MonoAndroidToolsDirectory) defaultPath `` is not valid; skipping.
+INFO [2022-08-02 15:30:43Z]: ANDROID: $(MonoAndroidToolsDirectory) defaultPath `` is not valid; skipping.
+INFO [2022-08-02 15:30:43Z]: ANDROID: Did not find Xamarin.Android at path 
+INFO [2022-08-02 15:30:43Z]: ANDROID: Did not find Xamarin.Android at path 
+WARNING [2022-08-02 15:30:43Z]: ANDROID: Unable to determine Xamarin.Android version.
+WARNING [2022-08-02 15:30:43Z]: ANDROID: Unable to determine Xamarin.Android version.
+INFO [2022-08-02 15:30:43Z]: Xamarin.Android SDK not found, disabling Xamarin.Android addin
+INFO [2022-08-02 15:30:43Z]: Found Xcode, version 13.4.1 (20504).
+INFO [2022-08-02 15:30:43Z]: Found default cached entitlements
+INFO [2022-08-02 15:30:43Z]: Xamarin.iOS not installed.
+Can't find mtouch or the Version file at /Library/Frameworks/Xamarin.iOS.framework/Versions/Current.
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.AssemblyBrowser
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.VersionControl.Git
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: MonoDevelop.AzureFunctions
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: Xamarin.Terminal.Xamarin.Terminal
+INFO [2022-08-02 15:30:43Z]: Add-in loaded: VisualFSharp
+INFO [2022-08-02 15:30:43Z]: Service MonoDevelop.Components.Commands.CommandManager initialized in 1837 ms.
+INFO [2022-08-02 15:30:43Z]: Creating service: MonoDevelop.Ide.DesktopService
+INFO [2022-08-02 15:30:43Z]: Service MonoDevelop.Ide.DesktopService initialized in 18 ms.
+Starting Visual Studio
+INFO [2022-08-02 15:30:44Z]: Found default cached entitlements
+INFO [2022-08-02 15:30:44Z]: WelcomePageService >> HideWelcomePage:False HasWindowImplementation:True LaunchReason:LaunchedFromFileManager forceShow:False
+INFO [2022-08-02 15:30:44Z]: Startup was LaunchedFromFileManager
+INFO [2022-08-02 15:30:44Z]: Xamarin.Mac not installed. Can't find /Library/Frameworks/Xamarin.Mac.framework/Versions/Current/Version.
+ERROR [2022-08-02 15:30:44Z]: MacMenu: 'MonoDevelop.CodeGeneration.CodeGenerationCommands.ShowCodeGenerationWindow' maps to null command
+ERROR [2022-08-02 15:30:44Z]: MacMenu: 'PerformanceDiagnosticsAddIn.SpinDumpFor5SecondsHandler' maps to null command
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Fonts.FontService
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Fonts.FontService initialized in 45 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Tasks.TaskService
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Tasks.TaskService initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.ProjectOperations
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.RootWorkspace
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Core.Scheduling.IOperationManager
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Core.Scheduling.IOperationManager initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.TextEditing.TextEditorService
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.TextEditing.TextEditorService initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Navigation.NavigationHistoryService
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Navigation.NavigationHistoryService initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Gui.DisplayBindingService
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Xamarin.XcodeIntegration
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Gui.DisplayBindingService initialized in 2 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Projects.HelpService
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Projects.HelpService initialized in 0 ms.
+ERROR [2022-08-02 15:30:44Z]: Monodoc documentation tree could not be loaded because monodoc.xml was not found in $/Library/Frameworks/Mono.framework/Versions/Current/lib/monodoc/
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.RootWorkspace initialized in 20 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Gui.Documents.DocumentManager
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Gui.Documents.DocumentManager initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Gui.ProgressMonitorManager
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Gui.ProgressMonitorManager initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.ProjectOperations initialized in 23 ms.
+   Loading Workbench
+      Initializing Main Window
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Gui.Documents.DocumentModelRegistry
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Gui.Documents.DocumentModelRegistry initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Gui.Documents.DocumentControllerService
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Gui.Documents.DocumentControllerService initialized in 0 ms.
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Gui.Shell.IShell
+WARNING [2022-08-02 15:30:44Z]: Control.WidgetEvent not implemented
+Enabled: True
+Enabled: False
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.TypeSystem.TypeSystemService
+INFO [2022-08-02 15:30:44Z]: Creating service: MonoDevelop.Ide.Composition.CompositionManager
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Xamarin.FormsEditor
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Xamarin.XamlLanguageService
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Xamarin.HotReload
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Microsoft.VisualStudio.TypeScriptAddin.TypeScriptAddin
+INFO [2022-08-02 15:30:44Z]: Opening files
+INFO [2022-08-02 15:30:44Z]: Creating MEF composition from cache
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.Composition.CompositionManager initialized in 133 ms.
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Ide.Gui.Pads.ErrorListPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Ide.Gui.Pads.BuildOutputPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Ide.Gui.Pads.TaskListPad
+INFO [2022-08-02 15:30:44Z]: Loading pad ProjectPad
+INFO [2022-08-02 15:30:44Z]: Skipping pad ClassPad
+INFO [2022-08-02 15:30:44Z]: Skipping pad MonoDevelop.Ide.Gui.Pads.HelpTree
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.DesignerSupport.ToolboxPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.DesignerSupport.PropertyPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.DesignerSupport.DocumentOutlinePad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Debugger.BreakpointPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Debugger.LocalsPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Debugger.WatchPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Debugger.ImmediatePad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Debugger.StackTracePad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.Debugger.ThreadsPad
+INFO [2022-08-02 15:30:44Z]: Loading pad Xamarin.HotReload.LiveVisualTreePad
+INFO [2022-08-02 15:30:44Z]: Loading pad GitStatusView
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.UnitTesting.TestPad
+INFO [2022-08-02 15:30:44Z]: Loading pad MonoDevelop.UnitTesting.TestResultsPad
+INFO [2022-08-02 15:30:44Z]: Loading pad Xamarin.Ide.DeviceLogging.DeviceLogPad
+INFO [2022-08-02 15:30:44Z]: Loading pad Xamarin.Terminal.TerminalPad
+INFO [2022-08-02 15:30:44Z]: Loading pad FSharp.Editor.FSharpInteractivePad
+INFO [2022-08-02 15:30:44Z]: Service MonoDevelop.Ide.TypeSystem.TypeSystemService initialized in 206 ms.
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Microsoft.VisualStudioMac.AddinMaker
+INFO [2022-08-02 15:30:44Z]: Add-in loaded: Xamarin.Forms.Addin
+INFO [2022-08-02 15:30:44Z]: .NET runtimes installed: 6.0.7, 6.0.6
+INFO [2022-08-02 15:30:44Z]: .NET runtimes installed (x64): 5.0.17, 3.1.27
+2022-08-02 15:30:44.865 VisualStudio[21406:1327542] Warning: Column selection is not supported in view-based table and outline views (<ExtendedTableView: 0x1401e6800>).
+INFO [2022-08-02 15:30:45Z]: ANDROID: Tracking android devices started
+INFO [2022-08-02 15:30:45Z]: ANDROID: Got new device list from adb with 0 devices
+objc[21406]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib (0x1dd87f808) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c2c8). One of the two will be used. Which one is undefined.
+objc[21406]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib (0x1dd87f858) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c318). One of the two will be used. Which one is undefined.
+objc[21406]: Class AppleTypeCRetimerRestoreInfoHelper is implemented in both /usr/lib/libauthinstall.dylib (0x1dd87f620) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c598). One of the two will be used. Which one is undefined.
+objc[21406]: Class AppleTypeCRetimerFirmwareAggregateRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x1dd87f670) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c5e8). One of the two will be used. Which one is undefined.
+objc[21406]: Class AppleTypeCRetimerFirmwareRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x1dd87f6c0) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c638). One of the two will be used. Which one is undefined.
+objc[21406]: Class ATCRTRestoreInfoFTABFile is implemented in both /usr/lib/libauthinstall.dylib (0x1dd87f710) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c688). One of the two will be used. Which one is undefined.
+objc[21406]: Class AppleTypeCRetimerFirmwareCopier is implemented in both /usr/lib/libauthinstall.dylib (0x1dd87f760) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c6d8). One of the two will be used. Which one is undefined.
+objc[21406]: Class ATCRTRestoreInfoFTABSubfile is implemented in both /usr/lib/libauthinstall.dylib (0x1dd87f7b0) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x17fe2c728). One of the two will be used. Which one is undefined.
+INFO [2022-08-02 15:30:45Z]: iOS Device Watcher run-loop started.
+INFO [2022-08-02 15:30:45Z]: CodeTemplateService: No user templates, reading default templates.
+2022-08-02 15:30:45.479 VisualStudio[21406:1327542] <VisualStudioMac_UI_Docking_DockSplitViewController_ColoredSplitView: 0x320023d70>: the delegate <VisualStudioMac_UI_Docking_DockSplitViewController: 0x600001ee99e0> was sent -splitView:resizeSubviewsWithOldSize: and left the arranged view frames in an inconsistent state:
+2022-08-02 15:30:45.479 VisualStudio[21406:1327542] Split view bounds: {{0, 0}, {0, 0}}
+2022-08-02 15:30:45.479 VisualStudio[21406:1327542]     Arranged view frame: {{0, 0}, {0, 40}}
+2022-08-02 15:30:45.479 VisualStudio[21406:1327542] The outer edges of the arranged view frames are supposed to line up with the split view's bounds' edges. NSSplitView is working around the problem, perhaps at the cost of more redrawing. (This message is only logged once per NSSplitView.)
+INFO [2022-08-02 15:30:45Z]: === Applying memento ===
+INFO [2022-08-02 15:30:45Z]: Restoring to screenID 2
+INFO [2022-08-02 15:30:45Z]: Requested rect: {{1693, 318}, {1442, 856}}
+INFO [2022-08-02 15:30:45Z]:    Added screen offset: {1512, 0} => {{3205, 318}, {1442, 856}}
+INFO [2022-08-02 15:30:45Z]:    Final rect: {{3205, 318}, {1442, 894}}
+INFO [2022-08-02 15:30:45Z]: Add-in loaded: MonoDevelop.VBBinding
+Enabled: False
+INFO [2022-08-02 15:30:45Z]: Delay ended, duration = 1087, correlation: 4a37537f-5b1f-4a55-b888-cca37acf9eba
+INFO [2022-08-02 15:30:45Z]: Downgrading .NET SDK from 6.0.400-preview.22330.6 to not use .NET in order to support building with Mono
+INFO [2022-08-02 15:30:45Z]: .NET SDKs installed: 6.0.400-preview.22330.6, 6.0.302
+INFO [2022-08-02 15:30:45Z]: .NET SDKs installed (x64): 5.0.408, 3.1.421
+INFO [2022-08-02 15:30:45Z]: Add-in loaded: Xamarin.AzureMobileAppService
+INFO [2022-08-02 15:30:45Z]: Found default cached entitlements
+INFO [2022-08-02 15:30:45Z]: MSAL cache at '/Users/garyantier/.IdentityService/msal.cache' already exists.
+INFO [2022-08-02 15:30:45Z]: Creating service: Xamarin.Ide.PushNotifications.PushNotificationsService
+INFO [2022-08-02 15:30:45Z]: Startup section mainInitialization 2 ms
+INFO [2022-08-02 15:30:45Z]: Startup section PlatformInitialization 4 ms
+INFO [2022-08-02 15:30:45Z]: Startup section GettextInitialization 4 ms
+INFO [2022-08-02 15:30:45Z]: Startup section CustomizerToolkitInitialization 58 ms
+INFO [2022-08-02 15:30:45Z]: Startup section IdeCustomizerInitialization 147 ms
+INFO [2022-08-02 15:30:45Z]: Startup section DispatchInitialization 1 ms
+INFO [2022-08-02 15:30:45Z]: Startup section RoslynInitialization 2 ms
+INFO [2022-08-02 15:30:45Z]: Startup section RuntimeInitialization 134 ms
+INFO [2022-08-02 15:30:45Z]: Startup section ThemeInitialized 94 ms
+INFO [2022-08-02 15:30:45Z]: Startup section PlatformServicesInitialization 1866 ms
+INFO [2022-08-02 15:30:45Z]: Startup section FileWatcherInitialization 0 ms
+INFO [2022-08-02 15:30:45Z]: Startup section ImageInitialization 0 ms
+INFO [2022-08-02 15:30:45Z]: Startup section AppInitialization 1695 ms
+INFO [2022-08-02 15:30:45Z]: Startup section BasicInitializationCompleted 1 ms
+INFO [2022-08-02 15:30:45Z]: Startup section SocketInitialization 0 ms
+INFO [2022-08-02 15:30:45Z]: Startup section WindowOpened 0 ms
+INFO [2022-08-02 15:30:45Z]: Startup section PumpEventLoop 276 ms
+INFO [2022-08-02 15:30:45Z]: Startup sections 4293 ms
+INFO [2022-08-02 15:30:46Z]: Refreshing profile info
+INFO [2022-08-02 15:30:46Z]: Fetching auth token for gary.antier@rafi.ph. Stale=False
+INFO [2022-08-02 15:30:46Z]: Fetching vsid...
+INFO [2022-08-02 15:30:46Z]: Refreshing entitlements...
+INFO [2022-08-02 15:30:46Z]: Found cached entitlements
+INFO [2022-08-02 15:30:46Z]: Found cached entitlements
+INFO [2022-08-02 15:30:46Z]: Found default cached entitlements
+INFO [2022-08-02 15:30:46Z]: Got token to fetch profile info with
+INFO [2022-08-02 15:30:46Z]: Initializing Runtime NetCore 6.0.400-preview.22330.6
+INFO [2022-08-02 15:30:46Z]: [0 (+0)] Finding custom frameworks
+INFO [2022-08-02 15:30:46Z]: [0 (+0)] Creating frameworks
+INFO [2022-08-02 15:30:46Z]: [0 (+0)] Initializing frameworks
+INFO [2022-08-02 15:30:46Z]: [0 (+0)] END: Target runtimes loaded
+WARNING [2022-08-02 15:30:46Z]: Unknown TargetFramework '.NETFramework,Version=v4.7.2' is being requested from SystemAssemblyService, returning empty TargetFramework
+INFO [2022-08-02 15:30:46Z]: Silently creating the profile.
+INFO [2022-08-02 15:30:46Z]: Downgrading .NET SDK from 6.0.400-preview.22330.6 to not use .NET in order to support building with Mono
+INFO [2022-08-02 15:30:46Z]: .NET SDKs installed: 6.0.400-preview.22330.6, 6.0.302
+INFO [2022-08-02 15:30:46Z]: .NET SDKs installed (x64): 5.0.408, 3.1.421
+INFO [2022-08-02 15:30:46Z]: Mapped Pango font description 'Fira Code 12' to NSFont '"FiraCode-Regular 12.00 pt. P [] (0x136e26b10) fobj=0x140a13d50, spc=7.20"'
+INFO [2022-08-02 15:30:47Z]: Profile did not exist. Created one for 'gary.antier@rafi.ph'.
+INFO [2022-08-02 15:30:47Z]: Getting large avatar
+INFO [2022-08-02 15:30:47Z]: Got large avatar. Checking for null: 'True'
+INFO [2022-08-02 15:30:47Z]: Getting the display name
+INFO [2022-08-02 15:30:47Z]: Service Xamarin.Ide.PushNotifications.PushNotificationsService initialized in 1847 ms.
+INFO [2022-08-02 15:30:47Z]: macson settings updated:
+INFO [2022-08-02 15:30:47Z]:   -- MACSON_UploadCoreDumps = 1
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type AddedExtension for .* on files []
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type PathSegment for .* on files [.js, .css, .html, .htm, .less, .scss, .coffee, .iced, .config, .cs, .vb, .json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .js on files [.coffee, .iced, .ts, .tsx, .jsx]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .css on files [.less, .scss, .sass, .styl]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .html on files [.md, .mdown, .markdown, .mdwn]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .map on files [.js, .css]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .svgz on files [.svg]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .designer.cs on files [.resx]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type ExtensionToExtension for .cs.d.ts on files [.cs]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for .bowerrc on files [bower.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for .npmrc on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for npm-shrinkwrap.json on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for yarn.lock on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for .yarnclean on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for .yarnignore on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for .yarn-integrity on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for .yarnrc on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileToFile for package-lock.json on files [package.json]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type FileSuffixToExtension for -vsdoc.js on files [.js]
+INFO [2022-08-02 15:30:47Z]: Added nesting rule of type AllExtensions for .* on files [.tt]
+INFO [2022-08-02 15:30:47Z]: Delay ended, duration = 1332, correlation: 8a9454ec-68a3-4484-b370-f10d0ae4fb6e
+INFO [2022-08-02 15:30:47Z]: Got the display name: Gary Antier
+Enabled: True
+INFO [2022-08-02 15:30:48Z]: Add-in loaded: MonoDevelop.UnitTesting.NUnit
+INFO [2022-08-02 15:30:49Z]: Git command line client detected: git version 2.32.1 (Apple Git-133)
+INFO [2022-08-02 15:30:49Z]: Fetching auth token for gary.antier@rafi.ph. Stale=False
+%% Shoing
+ERROR [2022-08-02 15:31:01Z]: Exception while closing document.
+System.ArgumentException: 'SampleComponent.razor' is not open.
+   at Microsoft.CodeAnalysis.Workspace.CheckDocumentIsOpen(DocumentId documentId) in /_/src/Workspaces/Core/Portable/Workspace/Workspace_Editor.cs:line 352
+   at Microsoft.CodeAnalysis.Workspace.OnAdditionalOrAnalyzerConfigDocumentClosed(DocumentId documentId, TextLoader reloader, WorkspaceChangeKind workspaceChangeKind, Action`1 checkTextDocumentIsInCurrentSolution, Func`5 withTextDocumentTextLoader) in /_/src/Workspaces/Core/Portable/Workspace/Workspace_Editor.cs:line 679
+   at Microsoft.CodeAnalysis.Workspace.OnAdditionalDocumentClosed(DocumentId documentId, TextLoader reloader) in /_/src/Workspaces/Core/Portable/Workspace/Workspace_Editor.cs:line 648
+   at MonoDevelop.Ide.TypeSystem.MonoDevelopWorkspace.InformDocumentClose(DocumentId analysisDocument, SourceTextContainer container) in /Users/runner/work/1/s/main/src/core/MonoDevelop.Ide/MonoDevelop.Ide.TypeSystem/MonoDevelopWorkspace.cs:line 879
+ERROR [2022-08-02 15:31:01Z]: Exception while closing document.
+System.ArgumentException: 'Component1.razor' is not open.
+   at Microsoft.CodeAnalysis.Workspace.CheckDocumentIsOpen(DocumentId documentId) in /_/src/Workspaces/Core/Portable/Workspace/Workspace_Editor.cs:line 352
+   at Microsoft.CodeAnalysis.Workspace.OnAdditionalOrAnalyzerConfigDocumentClosed(DocumentId documentId, TextLoader reloader, WorkspaceChangeKind workspaceChangeKind, Action`1 checkTextDocumentIsInCurrentSolution, Func`5 withTextDocumentTextLoader) in /_/src/Workspaces/Core/Portable/Workspace/Workspace_Editor.cs:line 679
+   at Microsoft.CodeAnalysis.Workspace.OnAdditionalDocumentClosed(DocumentId documentId, TextLoader reloader) in /_/src/Workspaces/Core/Portable/Workspace/Workspace_Editor.cs:line 648
+   at MonoDevelop.Ide.TypeSystem.MonoDevelopWorkspace.InformDocumentClose(DocumentId analysisDocument, SourceTextContainer container) in /Users/runner/work/1/s/main/src/core/MonoDevelop.Ide/MonoDevelop.Ide.TypeSystem/MonoDevelopWorkspace.cs:line 879
+Enabled: False
+WARNING [2022-08-02 15:31:01Z]: Inline operation : MonoDevelop.Projects.SolutionItem::{F20BDB91-EDBC-45A4-941A-A3263CE6861A}_5:CancelWhenDisposing, MonoDevelop.Projects.ProjectService Id: 35 was postponed due to scheduling constraints not satisfied. This is probably unintended.
+WARNING [2022-08-02 15:31:01Z]: Inline operation Getting referenced assemblies: MonoDevelop.Projects.SolutionItem::{F20BDB91-EDBC-45A4-941A-A3263CE6861A}_5:CancelWhenDisposing, MonoDevelop.Projects.WorkspaceItem::/Users/garyantier/Desktop/bug_reproduce/bug_reproduce.sln_2:CancelWhenDisposing, MonoDevelop.Projects.ProjectService Id: 36 was postponed due to scheduling constraints not satisfied. This is probably unintended.
+WARNING [2022-08-02 15:31:01Z]: Inline operation : MonoDevelop.Projects.SolutionItem::{F20BDB91-EDBC-45A4-941A-A3263CE6861A}_5:CancelWhenDisposing, MonoDevelop.Projects.WorkspaceItem::/Users/garyantier/Desktop/bug_reproduce/bug_reproduce.sln_2:CancelWhenDisposing, MonoDevelop.Projects.ProjectService Id: 38 was postponed due to scheduling constraints not satisfied. This is probably unintended.
+WARNING [2022-08-02 15:31:01Z]: Inline operation : MonoDevelop.Projects.SolutionItem::{F20BDB91-EDBC-45A4-941A-A3263CE6861A}_5:CancelWhenDisposing, MonoDevelop.Projects.WorkspaceItem::/Users/garyantier/Desktop/bug_reproduce/bug_reproduce.sln_2:CancelWhenDisposing, MonoDevelop.Projects.ProjectService Id: 37 was postponed due to scheduling constraints not satisfied. This is probably unintended.
+Enabled: True
+%% Not Visible 2
